@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgoldmeid&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="drawethree" /> </p>
 
-- 👨‍💻 Actualmente trabajando como Developer el varios proyecto de minecraft
+- 👨‍💻 Actualmente trabajando como Developer el varios proyecto de minecraft y webs
 
 - 🎓 Licenciado en Informática (Universidad de Duoc UC, 2021 - 2024)
 
