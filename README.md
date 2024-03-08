@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello, my name is Alejandro but I'm known as endy and I'm a programmer who started more than 1 year ago to make plugins, and discord bots.
+💡 | My skills:
 
-<!--
-**SirGoldMeid/SirGoldMeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java
+Node.JS
+HTML
+CSS
+SQL
+💻 | I have worked in:
 
-Here are some ideas to get you started:
+EternityPlay Network [Owner and Developer]
+Aquamc Network [Owner and Developer]
+MoonFlex Network [Owner and Developer]
+📚 | Plugins created:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(proximamente)
+
+📖 | Contact Discord: sirgoldmeid
