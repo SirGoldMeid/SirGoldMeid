@@ -10,6 +10,7 @@ Hello, my name is Alejandro but I'm known as endy and I'm a programmer who start
 › CSS
 
 › SQL
+![image](https://github.com/SirGoldMeid/SirGoldMeid/assets/41887168/4ab02e38-7d4a-4762-8500-2f76c460aca7)
 
 
 💻 | I have worked in:
