@@ -11,9 +11,12 @@ SQL
 
 💻 | I have worked in:
 
-°EternityPlay Network [Owner and Developer]
+° EternityPlay Network [Owner and Developer]
+
 ° Aquamc Network [Owner and Developer]
+
 ° MoonFlex Network [Owner and Developer]
+
 📚 | Plugins created:
 
 (proximamente)
