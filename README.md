@@ -1,15 +1,15 @@
-<h1 align="center">¡Hola 👋, soy Ján!</h1>
-<h3 align="center">Ingeniero de Software Java de Eslovaquia</h3>
+<h1 align="center">¡Hola 👋, soy Alejandro!</h1>
+<h3 align="center">Developer junior de Java </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drawethree&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="drawethree" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirgoldmeid&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="drawethree" /> </p>
 
-- 👨‍💻 Actualmente trabajando como Contratista para: [Enghouse Systems](https://www.enghouse.com/)
+- 👨‍💻 Actualmente trabajando como Developer el varios proyecto de minecraft
 
-- 🎓 Licenciado en Informática (Universidad de Žilina, 2018 - 2022)
+- 🎓 Licenciado en Informática (Universidad de Duoc UC, 2021 - 2024)
 
-- ⚡ ¡Visita mi portafolio! [www.drawethree.dev](www.drawethree.dev)
+- ⚡ ¡Visita mi portafolio! [www.sirgoldmeid.dev](www.sirgoldmeid.dev)
 
-- 📫 Contacto por correo electrónico: **me@drawethree.dev**
+- 📫 Contacto por correo electrónico: **me@sirgoldmeid.dev**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
