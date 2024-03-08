@@ -4,10 +4,15 @@ Hello, my name is Alejandro but I'm known as endy and I'm a programmer who start
 💡 | My skills:
 
 Java
+
 Node.JS
+
 HTML
+
 CSS
+
 SQL
+
 
 💻 | I have worked in:
 
