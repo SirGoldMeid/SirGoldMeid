@@ -5,7 +5,7 @@
 
 - 👨‍💻 Actualmente trabajando como Developer el varios proyecto de minecraft y webs
 
-- 🎓 Licenciado en Informática (Universidad de Duoc UC, 2021 - 2024)
+- 🎓 Licenciado en Ingenieria en Programacion (Universidad de Duoc UC, 2021 - 2024)
 
 - ⚡ ¡Visita mi portafolio! [www.sirgoldmeid.dev](www.sirgoldmeid.dev)
 
