@@ -8,7 +8,7 @@
 - 🎓 Licenciado en Informática (Universidad de Duoc UC, 2021 - 2024)
 - 🎓 Licenciado en Ingenieria en Programacion (Universidad de Duoc UC, 2021 - 2024)
 
-- ⚡ ¡Visita mi portafolio! [www.sirgoldmeid.dev](www.sirgoldmeid.dev)
+- ⚡ ¡Visita mi portafolio! [https://sirgoldmeid.dev/](www.sirgoldmeid.dev)
 
 - 📫 Contacto por correo electrónico: **me@sirgoldmeid.dev**
 
